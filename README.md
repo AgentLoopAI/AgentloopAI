@@ -11,7 +11,7 @@
 
 # [AgentLoop](https://github.com/agentloopai/agentloop)
 
-[📚 Cite paper](#related-papers).
+[📚 Cite paper](#related-papers)..
 <!-- <p align="center">
     <img src="https://github.com/agentloopai/agentloop/blob/main/website/static/img/flaml.svg"  width=200>
     <br>
